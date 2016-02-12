@@ -8,7 +8,7 @@ A collection of all the stuffs I learned that are not big enough to be put into 
 1. [HTML] (#html)
 
 ### HTML
-    - [Force keeping two or more words on same line] (html/keep-word-on-same-line.md)
+- [Force keeping two or more words on same line] (html/keep-word-on-same-line.md)
 
 ### License
 &copy; 2016 Khanh tran
