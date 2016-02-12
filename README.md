@@ -13,4 +13,4 @@ A collection of all the stuffs I learned that are not big enough to be put into 
 ### License
 &copy; 2016 Khanh tran
 
-This repository is licensed under the MIT License. See `LICENSE` for details.
+This repository is licensed under the MIT License. See [`LICENSE`] (LICENSE.md) for details.
