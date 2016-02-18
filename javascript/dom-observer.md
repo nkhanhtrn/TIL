@@ -10,10 +10,13 @@ var observer = new MutationObserver(function(mutations) {
     });
 });
 
+// configuration for observer object
 var config = { attributes: true, childList: true, characterData: true };
 
+// observe a DOM with configuration
 observer.observe(node, config);
 
+// stop watching
 observer.disconnect();
 
 ```
