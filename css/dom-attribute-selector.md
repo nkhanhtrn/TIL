@@ -12,6 +12,7 @@ tag[attribute|="val"]   // attribute starts with "val"
 
 ```css
 tag[attribute$="val"]   // attribute ends with "val"
+```
 
 ```css
 tag[attribute*="val"]   // attribute contains "val", which is a part of the word "value"
