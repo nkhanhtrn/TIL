@@ -6,10 +6,14 @@ A collection of all the stuffs I learned that are not big enough to be put into 
 
 ### Categories
 1. [HTML] (#html)
-2. [JavaScript] (#javascript)
+2. [CSS] (#css)
+3. [JavaScript] (#javascript)
 
 ### HTML
 - [Force keeping two or more words on same line] (html/keep-word-on-same-line.md)
+
+### CSS
+- [CSS selector with attribute value] (css/dom-attribute-selector.md)
 
 ### JavaScript
 - [Listen to changes in DOM with MutationObserver] (javascript/dom-observer.md)
