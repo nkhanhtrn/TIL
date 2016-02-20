@@ -14,7 +14,7 @@ A collection of all the stuffs I learned that are not big enough to be put into 
 
 ### CSS
 - [CSS selector with attribute value] (css/dom-attribute-selector.md)
-- [Draw a triangle in CSS] (css/draw-traiangle-in-css.md)
+- [Draw a triangle in CSS] (css/draw-triangle-in-css.md)
 
 ### JavaScript
 - [Listen to changes in DOM with MutationObserver] (javascript/dom-observer.md)
