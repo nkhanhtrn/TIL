@@ -1,7 +1,7 @@
 # TIL
 > Today I Learned
 
-A collection of all the stuffs I learned that are not big enough to be put into a blogpost, but useful enough to be stored.
+A collection of all the stuffs I learned that are not big enough to be put into a blogpost, but useful enough to be written down.
 
 
 ### Categories
@@ -14,10 +14,11 @@ A collection of all the stuffs I learned that are not big enough to be put into 
 
 ### CSS
 - [CSS selector with attribute value] (css/dom-attribute-selector.md)
+- [Draw a triangle in CSS] (css/draw-traiangle-in-css.md)
 
 ### JavaScript
 - [Listen to changes in DOM with MutationObserver] (javascript/dom-observer.md)
-- [Select element within a parent node in jQuery] (javascript/jquery-selector-within-parent-node.md)
+- [Select element within a parent node in jQuery] (javascript/jquery-selector-within-parent-node.
 
 ### License
 &copy; 2016 Khanh tran
