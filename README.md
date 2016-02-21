@@ -18,7 +18,7 @@ A collection of all the stuffs I learned that are not big enough to be put into 
 
 ### JavaScript
 - [Listen to changes in DOM with MutationObserver] (javascript/dom-observer.md)
-- [Select element within a parent node in jQuery] (javascript/jquery-selector-within-parent-node.
+- [Select element within a parent node in jQuery] (javascript/jquery-selector-within-parent-node.md)
 
 ### License
 &copy; 2016 Khanh tran
