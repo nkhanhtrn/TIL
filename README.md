@@ -17,6 +17,7 @@ A collection of all the stuffs I learned that are not big enough to be put into 
 - [CSS selector with attribute value] (css/dom-attribute-selector.md)
 - [Draw a triangle in CSS] (css/draw-triangle-in-css.md)
 - [Replace content using pseudo elements] (css/replace-content-using-pseudo-element.md)
+- [Align content vertically inside a DIV] (css/align-vertically.md)
 
 ### JavaScript
 - [Listen to changes in DOM with MutationObserver] (javascript/dom-observer.md)
