@@ -18,6 +18,7 @@ A collection of all the stuffs I learned that are not big enough to be put into 
 - [Draw a triangle in CSS] (css/draw-triangle-in-css.md)
 - [Replace content using pseudo elements] (css/replace-content-using-pseudo-element.md)
 - [Align content vertically inside a DIV] (css/align-vertically.md)
+- [Object Oriented CSS] (css/oocss.md)
 - [BEM coding style] (css/bem.md)
 
 ### JavaScript
