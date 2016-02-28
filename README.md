@@ -8,6 +8,7 @@ A collection of all the stuffs I learned that are not big enough to be put into 
 1. [HTML] (#html)
 2. [CSS] (#css)
 3. [JavaScript] (#javascript)
+4. [Git] (#git)
 
 ### HTML
 - [Force keeping two or more words on same line] (html/keep-word-on-same-line.md)
@@ -26,6 +27,9 @@ A collection of all the stuffs I learned that are not big enough to be put into 
 - [Listen to changes in DOM with MutationObserver] (javascript/dom-observer.md)
 - [Select element within a parent node in jQuery] (javascript/jquery-selector-within-parent-node.md)
 - [Provide default value for a conditional statement] (javascript/provide-default-value-for-condition-statement.md)
+
+### Git
+- [Change last commit meta data] (git/change-last-commit-meta-data.md)
 
 ### License
 &copy; 2016 Khanh tran
