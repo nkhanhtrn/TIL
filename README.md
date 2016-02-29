@@ -9,6 +9,7 @@ A collection of all the stuffs I learned that are not big enough to be put into 
 2. [CSS] (#css)
 3. [JavaScript] (#javascript)
 4. [Git] (#git)
+5. [Browser] (#browser)
 
 ### HTML
 - [Force keeping two or more words on same line] (html/keep-word-on-same-line.md)
@@ -30,6 +31,9 @@ A collection of all the stuffs I learned that are not big enough to be put into 
 
 ### Git
 - [Change last commit meta data] (git/change-last-commit-meta-data.md)
+
+### Browser
+- [Cookie with HTTPOnly header] (browser/cookie-httponly.md)
 
 ### License
 &copy; 2016 Khanh tran
