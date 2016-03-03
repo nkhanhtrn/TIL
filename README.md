@@ -33,6 +33,7 @@ A collection of all the stuffs I learned that are not big enough to be put into 
 
 ### Git
 - [Change last commit meta data] (git/change-last-commit-meta-data.md)
+- [Change commits after pushed to repository] (git/change-pushed-commit.md)
 
 ### Browser
 - [Cookie with HTTPOnly header] (browser/cookie-httponly.md)
