@@ -37,6 +37,7 @@ A collection of all the stuffs I learned that are not big enough to be put into 
 
 ### Browser
 - [Cookie with HTTPOnly header] (browser/cookie-httponly.md)
+- [Turn a new tab into a simple text editor in browsers] (browser/tab-writer.md)
 
 ### License
 &copy; 2016 Khanh tran
