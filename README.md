@@ -26,6 +26,7 @@ A collection of all the stuffs I learned that are not big enough to be put into 
 - [Float should not be used for inline element] (css/float-not-for-inline.md)
 - [Get value from attribute in CSS] (css/content-attr.md)
 - [Transparent color with RGBA] (css/transparent-color.md)
+- [Change color of text selection] (css/text-selection-color.md)
 
 ### JavaScript
 - [Listen to changes in DOM with MutationObserver] (javascript/dom-observer.md)
