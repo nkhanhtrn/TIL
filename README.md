@@ -15,6 +15,7 @@ A collection of all the stuffs I learned that are not big enough to be put into 
 - [Force keeping two or more words on same line] (html/keep-word-on-same-line.md)
 - [Input with clickable label] (html/label-clickable-input.md)
 - [Turn any DOM element to editable element in HTML5] (html/content-editable.md)
+- [Conditional comments for IE] (html/conditional-comments.md)
 
 ### CSS
 - [CSS selector with attribute value] (css/dom-attribute-selector.md)
