@@ -16,6 +16,7 @@ A collection of all the stuffs I learned that are not big enough to be put into 
 - [Input with clickable label] (html/label-clickable-input.md)
 - [Turn any DOM element to editable element in HTML5] (html/content-editable.md)
 - [Conditional comments for IE] (html/conditional-comments.md)
+- [Open hyper link in new tab] (open-link-new-tab.md)
 
 ### CSS
 - [CSS selector with attribute value] (css/dom-attribute-selector.md)
