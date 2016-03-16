@@ -47,6 +47,7 @@ A collection of all the stuffs I learned that are not big enough to be put into 
 - [Cookie with HTTPOnly header] (browser/cookie-httponly.md)
 - [Turn a new tab into a simple text editor in browsers] (browser/tab-writer.md)
 - [Browsers auto detect protocol when downloading resources] (browser/auto-detect-protocol-resouces.md)
+- [Monitor events with Chrome Dev Tool Console] (browser/chrome-console-monitor-events.md)
 
 ### License
 &copy; 2016 Khanh tran
