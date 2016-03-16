@@ -38,6 +38,7 @@ A collection of all the stuffs I learned that are not big enough to be put into 
 - [Difference between `undefined` and `null` in JavaScript] (javascript/undefined-vs-null.md)
 - [Copy array in JavaScript] (javascript/copy-array.md)
 - [Closure in JavaScript] (javascript/closure.md)
+- [Event delegation] (javascript/event-delegation.md)
 
 ### Git
 - [Change last commit meta data] (git/change-last-commit-meta-data.md)
