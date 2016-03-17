@@ -40,6 +40,7 @@ A collection of all the stuffs I learned that are not big enough to be put into 
 - [Closure in JavaScript] (javascript/closure.md)
 - [Event delegation] (javascript/event-delegation.md)
 - [Pseudo Classical Class] (javascript/pseudo-classical-class.md)
+- [Create Superclass and Subclass in ES5] (javascript/super-and-subclass-es5.md)
 
 ### Git
 - [Change last commit meta data] (git/change-last-commit-meta-data.md)
