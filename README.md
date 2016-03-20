@@ -32,6 +32,7 @@ A collection of all the stuffs I learned that are not big enough to be put into 
 - [Cut off text with ellipsis] (css/ellipsis.md)
 - [Powerful BEM] (css/powerful-bem.md)
 - [Connect parents and children with BEM] (css/connect-bem-elements.md)
+- [Select elements with not()] (css/not-selector.md)
 
 ### JavaScript
 - [Listen to changes in DOM with MutationObserver] (javascript/dom-observer.md)
