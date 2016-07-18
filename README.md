@@ -47,6 +47,7 @@ A collection of all the stuffs I learned that are not big enough to be put into 
 - [Hoisting in JavaScript] (javascript/hoisting.md)
 - [Double Negative] (javascript/double-negative.md)
 - [Caching selectors to improve performance] (javascript/caching-query-selectors.md)
+- [Create delay between Requests to prevent flooding the server] (javascript/delay-between-requests.md)
 
 ### Git
 - [Change last commit meta data] (git/change-last-commit-meta-data.md)
