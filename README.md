@@ -60,6 +60,7 @@ A collection of all the stuffs I learned that are not big enough to be put into 
 - [Browsers auto detect protocol when downloading resources] (browser/auto-detect-protocol-resouces.md)
 - [Monitor events with Chrome Dev Tool Console] (browser/chrome-console-monitor-events.md)
 - [Cross subdomain Cookie] (browser/cross-subdomain-cookie.md)
+- [Browsers auto sanitize input value] (browser/browser-sanitize-input-value.md)
 
 ### Philosophy
 - [Joel test] (philosophy/joel-test.md)
