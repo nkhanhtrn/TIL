@@ -34,6 +34,7 @@ A collection of all the stuffs I learned that are not big enough to be put into 
 - [Connect parents and children with BEM] (css/connect-bem-elements.md)
 - [Select elements with not()] (css/not-selector.md)
 - [Fluid Video] (css/fluid-video.md)
+- [Will change CSS] (css/will-change.md)
 
 ### JavaScript
 - [Listen to changes in DOM with MutationObserver] (javascript/dom-observer.md)
