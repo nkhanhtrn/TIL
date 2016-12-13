@@ -8,8 +8,9 @@ A collection of all the stuffs I learned that are not big enough to be put into 
 1. [HTML] (#html)
 2. [CSS] (#css)
 3. [JavaScript] (#javascript)
-4. [Git] (#git)
-5. [Browser] (#browser)
+4. [SQL] (#sql)
+5. [Git] (#git)
+6. [Browser] (#browser)
 
 ### HTML
 - [Force keeping two or more words on same line] (html/keep-word-on-same-line.md)
@@ -51,6 +52,9 @@ A collection of all the stuffs I learned that are not big enough to be put into 
 - [Caching selectors to improve performance] (javascript/caching-query-selectors.md)
 - [Create delay between Requests to prevent flooding the server] (javascript/delay-between-request.md)
 - [Decode HTML Entities inside Input] (javascript/decode-html-entities-input.md)
+
+### SQL
+- [Delete multiple rows in SQL] (sql/delete-multiple-rows.md)
 
 ### Git
 - [Change last commit meta data] (git/change-last-commit-meta-data.md)
