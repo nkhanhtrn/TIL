@@ -72,6 +72,6 @@ A collection of all the stuffs I learned that are not big enough to be put into 
 - [Joel test] (philosophy/joel-test.md)
 
 ### License
-&copy; 2016 Khanh tran
+&copy; 2017 Khanh tran
 
 This repository is licensed under the MIT License. See [`LICENSE`] (LICENSE.md) for details.
