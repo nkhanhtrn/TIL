@@ -52,6 +52,7 @@ A collection of all the stuffs I learned that are not big enough to be put into 
 - [Caching selectors to improve performance] (javascript/caching-query-selectors.md)
 - [Create delay between Requests to prevent flooding the server] (javascript/delay-between-request.md)
 - [Decode HTML Entities inside Input] (javascript/decode-html-entities-input.md)
+- [Window.name remain the same accross page reloads] (javascript/window-name.md)
 
 ### SQL
 - [Delete multiple rows in SQL] (sql/delete-multiple-rows.md)
