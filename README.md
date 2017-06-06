@@ -71,6 +71,7 @@ A collection of all the stuffs I learned that are not big enough to be put into 
 
 ### Philosophy
 - [Joel test] (philosophy/joel-test.md)
+- [Conway's Game of Life] (philosophy/game-of-life.md)
 
 ### License
 &copy; 2017 Khanh tran
